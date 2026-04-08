@@ -1,0 +1,37 @@
+Advancing ECommerce Authenticity A Novel Fusion Approach Based on Deep Learning and Aspect Features for Detecting False Reviews
+
+
+E-commerce authenticity, fake review detection, CNN, fraud detection in digital marketplaces,
+PoS, GloVe, sentiment analysis techniques.
+
+
+IEEE Transaction Access on Deep Learning,Volume:12,Issue Date:29.August.2024
+
+
+Advancing_ECommerce_Authenticity
+
+
+advancing_ecommerce_authenticity
+
+
+
+detecting_false_reviews
+
+
+Detection_Of_Product_Review_Type
+
+
+
+Detection_Of_Product_Review_Type
+
+
+
+Members
+-------
+
+asin	
+name	
+pdate	
+rating	
+review
+Prediction
